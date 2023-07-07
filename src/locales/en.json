@@ -1,0 +1,12 @@
+{
+  "form.title": "Student Report Card",
+  "form.name": "Name",
+  "form.math": "Math",
+  "form.science": "Science",
+  "form.english": "English",
+  "form.submit": "Submit",
+  "form.validation.required": "This field is required",
+  "form.validation.min": "Minimum value allowed is ${min}",
+  "form.validation.max": "Maximum value allowed is ${max}"
+  
+}

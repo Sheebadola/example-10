@@ -1,0 +1,13 @@
+{
+    "form.title": "విద్యార్థి నివేదిక కార్డు",
+    "form.name": "పేరు",
+    "form.math": "గణితం",
+    "form.science": "సాధారణ శాస్త్రం",
+    "form.english": "ఆంగ్ల",
+    "form.submit": "సమర్పించండి",
+    "form.validation.required": "ఈ ఖాళీని తప్పనిసరిగా పూరించవలెను",
+    "form.validation.min": "అనుమతించబడిన కనీస విలువ ${min}",
+    "form.validation.max": "అనుమతించబడిన గరిష్ట విలువ ${min}"
+      
+  }
+  
